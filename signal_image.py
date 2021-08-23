@@ -1,3 +1,4 @@
+#creates signal and then creates the digital fourier transform (DFT) of that signal
 import matplotlib.pyplot as plt
 import numpy as np
 
